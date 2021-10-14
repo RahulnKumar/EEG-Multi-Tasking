@@ -1,0 +1,1 @@
+{"config": {"run": 1, "num_epochs": 1, "num_classes": 2, "batch_size": 1, "learning_rate": 0.001, "mt_model_path": "models/multi_task/run_1.pth", "st_model_path": "models/single_task/run_1", "st_result_path": "results/single_task/run_1.json", "mt_result_path": "results/multi_task/run_1.json"}, "time": 19.22}
