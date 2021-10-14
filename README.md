@@ -11,10 +11,11 @@ Motor imagination is an act of thinking about body motor parts and motor imagery
 ## Folders/Files Description
 This repo contains following folders and files :  
 1. input : Contains the input EEG spectral images
-2. models  : Pytorch .pth model files are stored in this directory 
-3. results    : Results and training configs are stored as json file in this directory for each training
-4. src    :  It contains all the python scripts i.e., data precossing, models, training and evaluation scripts.
-5. main.py     : It is the main driver scripts which can be used for training each models.
+2. notebooks : Contains notebooks made while developing this project
+3. models  : Pytorch .pth model files are stored in this directory 
+4. results    : Results and training configs are stored as json file in this directory for each training
+5. src    :  It contains all the python scripts i.e., data precossing, models, training and evaluation scripts.
+6. main.py     : It is the main driver scripts which can be used for training each models.
 
 
 ## Training Steps
