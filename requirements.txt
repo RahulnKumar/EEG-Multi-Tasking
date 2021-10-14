@@ -1,0 +1,7 @@
+numpy
+scipy
+pandas
+torch==1.8.1
+scikit-learn
+scikit-image==0.17.2
+opencv-python==4.5.1.48
