@@ -2,7 +2,7 @@
  
  • **Abstract**  
 Motor imagination is an act of thinking about body motor parts and motor imagery signals are the brain activities generated while performing motor imagination. Electroencephalogram (EEG) is a non- invasive way by which brain activities can be recorded with electrodes placed on the scalp. EEG measurements recorded for every other individ- ual are different even if they think about same moving body parts. And this makes motor imagery signal classification difficult. Many authors have proposed various machine learning and deep learning approaches for motor imagery signal classification. To the best knowledge of authors, in most of the studies, subject specific model is trained as EEG signature is subject specific. However, even when EEG measurments from different individuals are recorded, if they are for same motor imagination, then, there must be some hidden common features for a specific motor imagi- nation across all individuals. With subject specific models, those features can’t be learnt. We have proposed yet another deep learning approach for motor imagery signal classification where a single deep learning sys- tem is trained with a multi-task learning approach. The results illustrate that a single mult-task learnt model performs even better than subject specific trained models.    
-**Keywords** : EEG · Motor Imagery · Deep Learning · Multi-task Learn-ing.
+**Keywords** : EEG · Motor Imagery · Deep Learning · Multi-task Learning.
 
 
   
