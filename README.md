@@ -50,15 +50,23 @@ Summary :
   1 run          = 10 trials per class  
   Total trials   = (10 trials)*(2 classes)*(6 runs) = 120 trials per session   
 
-   
-
-## References
-
 -----------
 
 
 ## Contributors  
- - Rahul Kumar and Sriparna Saha
+ - Rahul Kumar and Sriparna Saha  
+    
+If you consider this work as useful, please cite it as
+```
+@inproceedings{kumar2021multi,
+  title={A Multi-task Learning Scheme for Motor Imagery Signal Classification},
+  author={Kumar, Rahul and Saha, Sriparna},
+  booktitle={International Conference on Neural Information Processing},
+  pages={311--322},
+  year={2021},
+  organization={Springer}
+}
+```
  ## License & copyright
  © 2021 Rahul Kumar   
  Licensed under the [MIT License](LICENSE)
